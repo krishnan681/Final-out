@@ -52,6 +52,7 @@ font-size: 30px;
 
 }
 
+/* changed style */
 
 .wish p{
 color: red;
@@ -69,7 +70,7 @@ font-weight: 500;
 font-style: normal;
 
 font-size: 20px;
-margin-top: 8vh;
+margin-top: -2vh;
 }
 
 .counter {
