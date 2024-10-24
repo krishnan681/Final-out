@@ -54,7 +54,7 @@ font-size: 30px;
 
 
 .wish p{
-color: blue;
+color: red;
 font-weight: 500;
 font-size: 20px;
 /* text-align: end; */
@@ -62,7 +62,7 @@ font-size: 20px;
 
 
 
-.hero h1{
+.hero h3{
 font-family: "Cinzel", serif;
 font-optical-sizing: auto;
 font-weight: 500;
