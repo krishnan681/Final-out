@@ -135,7 +135,7 @@ color: red;
 @media (max-width: 575.98px) { 
 .hero h1{
 position: relative;
-top: 5vh;
+top: 4vh;
 font-size: 2rem;
 text-align: center;
 font-family: "Cinzel", serif;
